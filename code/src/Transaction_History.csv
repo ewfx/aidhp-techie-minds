@@ -1,0 +1,101 @@
+Customer_Id,Product_Id,Transaction Type,Category,Amount(in Dollar),Purchase_Date,Payment_mode
+721552c1-48f8-4a54-80d4-00f60beef17b,d7b4ddb9-f74e-4be3-a4c5-ebdcbf35d8eb,Hotel Stays,Boutique Hotels,3201,2025-02-13,PayPal
+7fdbd494-2533-46d0-893b-0393928c6721,a4b3150e-a408-4395-b49c-3096681622eb,Asset Purchase,Real Estate,2363,2025-01-13,PayPal
+11770b26-bc89-46cc-bd72-a7c6c185d295,cce7fe31-c175-4a38-8419-8000d480d778,Cloud Services Fees,SaaS Subscriptions,4809,2025-01-31,Credit Card
+f56f8e4e-0f1c-4031-b9f8-443352dffb27,43e2a4dc-f455-4989-9de0-c2549b24a2f1,Luxury Shopping,Designer Clothing,696,2025-02-08,Credit Card
+1f07682b-3094-4859-9128-43f97c9f743c,9019c99e-19d3-4518-9c51-630b8b4aabf5,Hotel Stays,Vacation Rentals,294,2025-02-15,Crypto
+6515462b-b62d-4965-aae2-79faa40b5dd6,4c127b13-d625-4030-8bcc-c2d9ad3d0142,Client Investment,Mutual Funds,4821,2025-03-07,Credit Card
+bd299418-8598-46e9-b880-f80acf5a92a3,9b903de8-eb6e-4e33-8dad-64eb21d495f1,Cloud Services Fees,SaaS Subscriptions,3757,2025-02-16,Crypto
+7618c07f-f72c-44cd-999a-49712f7a73a2,438bd1a5-b7b2-4b77-bc1f-bb06cd3d46d4,Hotel Stays,Vacation Rentals,772,2025-02-04,Crypto
+52241a1d-a988-42e2-b06a-71f984804d72,f931f37f-0b86-4f81-9059-e06140e45422,Asset Purchase,Machinery,2438,2025-02-25,Credit Card
+23ad48ed-797c-4ca9-9d3f-28224c625e5b,29336047-eba3-4d93-8050-bc64aa95c613,Asset Purchase,Vehicles,2517,2025-02-19,Debit Card
+ace4edae-e39b-4b56-ba94-ea3cd44aa9ab,9cc875d5-c84a-4d2f-9968-225b24f039a5,Asset Purchase,Real Estate,38,2025-03-04,Debit Card
+2730262f-ee12-45b0-82e5-3c83f0dc6e3a,190d6247-c4c3-4835-9d77-45178d5ed44b,Asset Purchase,Vehicles,916,2025-01-30,Crypto
+41e593ea-5901-4adf-9bba-8fd653a09c33,92931fab-f801-4750-a718-a462ed696003,Client Investment,Mutual Funds,3114,2025-03-20,Credit Card
+f9cd3e55-e541-4cba-9d4d-cc734ff73e0d,114d23ac-d07f-4976-86c4-bfcf0e054f63,Cloud Services Fees,SaaS Subscriptions,4009,2025-02-14,Debit Card
+b155bea3-cb6f-4c46-bc6c-b83c73c3ea51,a619c1c7-c396-408b-acce-cb7b7f2d1669,Luxury Shopping,Designer Clothing,3004,2025-03-07,Credit Card
+4702936e-8dd2-4b95-81f9-e7a05122b25e,a0b2dcd0-4e1a-4c61-81e2-110904cce48b,Client Investment,Stocks,2516,2025-02-01,Credit Card
+52232cfb-c5f8-47f8-89b2-d9c3197eba2f,ae52b9d3-e651-4628-acee-113598c8077a,Client Investment,Mutual Funds,4675,2025-02-02,Credit Card
+3a646685-3155-4887-a974-7bfbdc6c76ea,81c3db0d-c304-484d-a8fe-f076954cef11,Luxury Shopping,Designer Clothing,3619,2025-03-04,Cash
+b0ff8a85-1ff0-4bd4-a23c-0e8b9774ccfe,e2a88de4-5143-4149-b108-7b301b9ecdec,Luxury Shopping,Watches,3563,2025-02-20,Credit Card
+55ac8e17-9acc-40d1-b221-a88e63966802,19e168fb-876b-4637-8d02-8bd7403dfcd6,Asset Purchase,Machinery,1463,2025-02-09,Cash
+a9311185-407b-45fb-8548-b6081f133146,764ae8ba-f100-40a8-aa08-c3ec3f7de53c,Client Investment,Stocks,4843,2025-01-08,Crypto
+65bfebe2-a163-4992-8699-1a47bb562acc,4e934c47-34e4-4311-ac8c-24d14307c35c,Hotel Stays,Boutique Hotels,3366,2025-01-02,Debit Card
+4966989c-65c4-427b-aab8-71c48e8c0848,8c88e3c7-858b-4c1b-a4c1-832fb8b1cece,Luxury Shopping,Handbags,525,2025-03-04,Debit Card
+fa6261d6-0abf-445d-b636-6c21b55f21dc,425086e2-c6fa-405f-ac96-1bf4557e3a11,Luxury Shopping,Designer Clothing,48,2025-03-01,Debit Card
+924c4d6f-dcd8-4a55-913c-880d41571926,e41ef313-d2bc-4c16-ba11-14b67bb9e198,Cloud Services Fees,AWS,3352,2025-03-15,Debit Card
+216478ef-b420-47e1-a84b-7c882be2f2a5,7cf3be88-688e-4148-a0a2-188a834421a6,Hotel Stays,Boutique Hotels,896,2025-03-03,Debit Card
+2ea50c47-616d-449a-9113-cf07a4593a1a,07a60a1f-6685-43bf-8208-12850057199d,Hotel Stays,Resorts,2854,2025-02-09,Debit Card
+38774090-1835-4e8b-8b7d-186a7f58384c,7ea47657-db3e-4462-a4b7-bcd525e94e85,Luxury Shopping,Watches,2214,2025-02-22,Debit Card
+4f6bcca3-bacf-493e-8ed0-c9703dc2d291,47c1230d-e166-48da-af91-e90e2bb69efa,Asset Purchase,Vehicles,1108,2025-03-14,Crypto
+65a51b17-4ed5-4a07-a51c-2acb1482fb87,d7b3a41b-5f83-4926-952a-d792fa59376e,Cloud Services Fees,SaaS Subscriptions,1833,2025-03-08,Credit Card
+868a0c79-bebb-4efc-b2e3-19cd27648401,ef749704-1775-4104-b551-bee1fa99698c,Hotel Stays,Resorts,3211,2025-02-16,PayPal
+f30426be-68ef-4af3-a135-41f67d7641ed,abdc4497-a3cf-46fa-8f0a-8c5aab615931,Luxury Shopping,Jewelry,3165,2025-01-17,Cash
+549e572c-a546-4cf2-989d-7fd03858c140,9c1182c6-d4d8-4ed7-a213-b1af19cb88d3,Hotel Stays,Boutique Hotels,3103,2025-02-12,PayPal
+6b4173ec-d46f-4edc-be04-5347a6cf784b,a9b4bc50-dfcd-4f7e-b72f-1e351c7d7da7,Cloud Services Fees,SaaS Subscriptions,3540,2025-03-23,PayPal
+f652c543-f280-4386-9b17-dea5c464e736,75146bf3-0f55-4cfd-9e75-02bd3338aacb,Cloud Services Fees,Google Cloud,3788,2025-03-23,Credit Card
+8235c8e9-34a7-4840-b9ac-458756903ac5,dd80ccd3-5877-4779-a6f3-b397bffae0cd,Client Investment,Crypto,2906,2025-01-29,Credit Card
+28d17825-dd6f-4cef-b6f9-881ff6420990,3a6ae112-cc16-42ce-81dc-0d754db241fb,Luxury Shopping,Jewelry,3463,2025-01-12,Credit Card
+0ba78cc3-8d9f-40d7-96b3-96633a797087,46e05f51-3a14-428f-b6bf-eedb7a39f9a8,Cloud Services Fees,Azure,3521,2025-01-30,Debit Card
+af9be146-1abb-4150-9903-adfe55e04715,edba31b3-1679-4f5d-a7bf-8e4cb3a3b120,Client Investment,Stocks,998,2025-01-11,Crypto
+1b5191a0-b2db-4688-b00c-7fed454e9f14,55364a4f-85b9-4057-b1e3-a940b74dded1,Client Investment,Bonds,4126,2025-02-13,Debit Card
+fac2cf86-5bca-45ab-bded-768827f0b7f7,3173faa7-08e3-4a80-b6ea-514041ce2644,Hotel Stays,Resorts,4974,2025-02-26,Crypto
+5203a2f0-a690-4600-bbee-0d178ffa03dd,f3a606d9-fa4a-44e6-9a69-e4f4caee95ca,Hotel Stays,Resorts,4036,2025-03-22,Crypto
+eea0e286-f7da-486b-85b4-f93e51cf3fc7,4817ab12-6a26-4083-81e0-d251d0ebfd68,Client Investment,Stocks,4189,2025-02-11,PayPal
+374dd882-62cb-4161-980d-72f45c704126,fb001659-68df-4c58-835a-48634082826d,Hotel Stays,Business Hotels,1692,2025-02-22,PayPal
+56a075ce-7345-418b-9377-1dbc4f17ea9d,fecc8254-8b2e-4e58-a70b-ee5a07f4221e,Cloud Services Fees,AWS,4675,2025-03-01,Crypto
+bbfa18eb-9c4f-4c68-a66d-afcd58b7cea1,e790e20b-c8e7-44be-8901-983ae6b8c6d0,Asset Purchase,Vehicles,3973,2025-01-01,Crypto
+6dbbe72e-544f-4705-85e4-da34671cb4af,f56ab7ab-f239-40be-82ad-50fd618cd4df,Cloud Services Fees,SaaS Subscriptions,943,2025-03-01,Debit Card
+d2bc7165-9ec9-4e3c-9885-0c5c7060948b,46b7b835-d9d1-40a6-ae2f-5ee332ee8e24,Client Investment,Mutual Funds,3608,2025-03-07,Debit Card
+c5e54eb8-7317-4c06-956c-66aa8da23b6e,12b659ba-3581-4443-ace6-daa08b1067d7,Client Investment,Mutual Funds,3243,2025-03-16,PayPal
+f9498fc2-1cb8-4a64-9245-3cab2a3d77bc,97641823-16cc-4838-8a7e-3af4242c2ef6,Cloud Services Fees,AWS,1990,2025-03-20,Credit Card
+7ad1e74c-ba0e-48e8-9afe-d65e59365f1f,40647c79-40c2-45fa-8462-821ce1dc42d6,Hotel Stays,Business Hotels,1865,2025-02-23,Crypto
+1c67d1b0-e41c-4cf6-9460-0c61dc2b5d0a,4ef4a342-682c-4cc7-b520-54cd487c406b,Hotel Stays,Boutique Hotels,3066,2025-01-22,Debit Card
+69d6c19b-3b56-49b4-8998-bae3014a6a1e,1d5081e1-4fa0-44bb-a9e8-a095488b225e,Client Investment,Bonds,802,2025-02-10,PayPal
+f1edf12e-66e9-451d-8193-2a21ed70dbcb,d7f054f9-5793-4605-a3ab-6d5a709caefe,Luxury Shopping,Designer Clothing,801,2025-02-04,Debit Card
+7ea4f5c1-98cf-46cd-b362-d6e54cf5bf61,56847782-663b-431c-a4ff-3baf10ff26e9,Hotel Stays,Resorts,1819,2025-01-10,Crypto
+629bfff6-f00d-4549-850f-36354e603b7c,56817b0f-d89a-41e1-b41f-665cb6469cc0,Cloud Services Fees,Google Cloud,2265,2025-03-11,Crypto
+605ca112-2467-4b87-b635-56a6cd445f68,055bb83f-1b3a-4f17-84ab-5e0edee11392,Hotel Stays,Resorts,3620,2025-01-26,Cash
+7a1a060f-31dc-4ddb-a491-4c60459a4924,814479d2-fb6d-4b8e-ada2-2be37d7b9fe6,Cloud Services Fees,AWS,1617,2025-03-19,Credit Card
+a8760967-95dc-400a-8ada-3e77f0f7958a,bc28b35b-9dee-49e6-b968-ac1023f14ba8,Client Investment,Mutual Funds,994,2025-03-25,Cash
+72545849-7015-4bdb-9837-19676713f5b3,4e120792-e34c-4ba1-8713-b27dc8a317d5,Hotel Stays,Boutique Hotels,3686,2025-02-28,PayPal
+f155deaf-d99c-48ad-8477-acd6f18e7343,7fbc3cac-1e07-44e9-8b60-3cb5c6ca11fb,Cloud Services Fees,SaaS Subscriptions,3390,2025-02-20,Debit Card
+c26972ea-49ff-4257-90a5-e8c5da4e2334,3e4b564c-9de6-4067-bc35-1f12f76815da,Client Investment,Crypto,529,2025-01-12,PayPal
+55774197-c6d5-4d58-b691-2cb768d829eb,010c21d5-0284-49fe-8c43-269a9a261403,Luxury Shopping,Designer Clothing,600,2025-03-10,Crypto
+f0f6c5e2-b2cc-4d8d-941d-ad9b69521c05,c1c25b97-ac9d-4894-85df-c5cf3a82b1de,Cloud Services Fees,Google Cloud,1060,2025-02-25,Cash
+fe2e8991-2d49-4ad1-b327-b159564be7fa,e05afc60-62b9-4fdb-b7c2-f0baf3d2132b,Luxury Shopping,Handbags,3643,2025-02-15,Cash
+736d0f98-9b90-4d09-82aa-41a9d0162b29,29e0cfa9-3d15-4355-94dd-371c2e676542,Luxury Shopping,Designer Clothing,4454,2025-01-03,Cash
+8bfc1711-b0a3-4da1-b727-272d8b44b0b3,5e56c50a-4dca-47e2-951e-d078ed4dba22,Asset Purchase,Vehicles,969,2025-01-06,PayPal
+ff320482-de43-47de-88fa-4aedabb706cf,2c51a92b-5b21-48db-b3c5-a4d7e8ae66d6,Hotel Stays,Business Hotels,702,2025-01-23,Crypto
+090e9668-888a-424f-9acc-07a76fee8cbb,07844c0e-041a-4d03-a8a7-a3dee9d63d95,Cloud Services Fees,SaaS Subscriptions,3909,2025-03-07,Debit Card
+75234835-d65d-49e8-b857-bc7ff9909d24,f09ab60f-e105-4e20-9fb6-5ee408d8478a,Luxury Shopping,Jewelry,4483,2025-01-20,Debit Card
+3b7cc4e1-0b2d-4a1f-8872-28a8ef758cc4,e0d28795-3908-4307-ab25-d91dd45d0c71,Asset Purchase,Real Estate,2956,2025-03-10,PayPal
+8e7e532e-6677-4f4b-863a-48b88a50e419,0c49e7d3-e2b3-47cc-a2a6-c643c332418f,Client Investment,Bonds,536,2025-01-24,Cash
+9a9b8fcd-c00f-40d2-abe8-9b7c1648925a,8e69c5b3-2d64-47c7-9077-848ed2664cdd,Cloud Services Fees,SaaS Subscriptions,3234,2025-01-24,Credit Card
+c13e0102-6137-4e05-90f5-9174f5ddf0b4,42bfe913-b870-4e7f-a0a5-53a28d0c1ed3,Luxury Shopping,Handbags,2263,2025-01-22,PayPal
+d045b63f-2ad2-4e68-abc1-d8433b459e02,48a6e369-d0fe-470f-8272-86f1f5f582d3,Hotel Stays,Resorts,3354,2025-01-09,PayPal
+54b1cf1f-d9a4-4e3f-94b8-dfc8f8aab756,b946bcc0-13e9-4036-bf2a-9e8053272575,Asset Purchase,Real Estate,3975,2025-03-04,Crypto
+4c4531c9-36b3-44e2-b41e-ac21c8318c98,1d721702-d99e-4b87-81df-767c8b10b1ae,Luxury Shopping,Handbags,1885,2025-01-13,Debit Card
+481b3ab5-c50f-4405-8a1d-9b541f6f43d4,eb5d9fd5-0c5a-4516-9c21-130b2d0e5931,Hotel Stays,Boutique Hotels,1773,2025-01-05,PayPal
+ff79d5c0-eb87-44a8-ba6f-cbfc6be3d0d4,1c6ab33e-1feb-4b03-9571-4b6ae56da8c5,Luxury Shopping,Watches,530,2025-02-15,PayPal
+747e93a7-aa30-4348-b551-8527769a2ea5,e996f9f3-76ca-4647-834b-f6434ac03747,Cloud Services Fees,SaaS Subscriptions,1026,2025-03-02,Cash
+2b449ab5-a6ae-42eb-968a-5a5a11e206b2,4dc79010-ba98-45c2-b3c9-cbf2704584b1,Cloud Services Fees,AWS,126,2025-02-06,Cash
+60614db3-19dc-4b9f-a24b-53113c8dd128,c2f7cf67-59f1-4a55-9cc8-c362abdfaf1f,Cloud Services Fees,Google Cloud,2443,2025-01-14,Credit Card
+adb3824d-8d1e-499d-91af-85c59a1bce32,ee77e3c4-a618-4d30-9bde-6f3407c45b78,Asset Purchase,Vehicles,593,2025-01-10,Crypto
+4cf96270-75d2-4b7c-af60-1932d9732d72,9dc85256-e664-4c81-a970-d7acc106c104,Cloud Services Fees,AWS,404,2025-03-13,Credit Card
+5beed5b4-69fa-4604-8762-08f6e4c07f4f,c050fcc6-dc52-48a5-b69f-413bd18e7c21,Hotel Stays,Boutique Hotels,3798,2025-03-19,Cash
+84728334-6a69-450c-b457-b8370672d9c6,cbf41d90-8eca-46c4-9b01-3f371d5959ca,Luxury Shopping,Handbags,2778,2025-03-04,Debit Card
+05b655c3-6a19-4cf0-9d8a-6f0d4c1ded88,19829b92-c5d2-4a55-8ae4-5eb11e3ae2b4,Client Investment,Stocks,4177,2025-02-18,Cash
+258e8807-ca68-47c7-9db1-4c778354efa4,a6399770-1397-4447-a1f3-a19dc8800d76,Hotel Stays,Resorts,3870,2025-02-14,Crypto
+56d4a944-401a-40e6-8a98-80bacf761ce9,e9f4587d-84ca-4af3-a7f7-5732dd93f61b,Hotel Stays,Vacation Rentals,283,2025-02-25,Cash
+76b0a088-3c3e-48dc-82ba-9cb309fad345,af7cd6e6-abf8-4034-9e45-65a28aa370c6,Cloud Services Fees,Azure,2023,2025-03-19,Crypto
+3d8232f0-e69d-40a3-af99-9580a8e940e3,19b65ed7-ea5c-4a40-abea-6af478443590,Asset Purchase,Equipment,4443,2025-03-21,Crypto
+56a50032-709b-40fc-bf33-2bf4c53d5a48,f2e71817-7e1d-44c9-98fc-60aeb797098a,Luxury Shopping,Watches,1399,2025-03-14,Crypto
+baf0c04f-4fe1-4f75-92be-8d1473c09dbf,f126597c-596a-421d-a511-4ed94a0be400,Asset Purchase,Equipment,3576,2025-01-19,Crypto
+8d3c7095-0c08-4819-8e1f-7616c0dd0919,fb23a6f7-cbfd-432c-adda-18d27ae1be93,Luxury Shopping,Jewelry,4712,2025-02-09,Crypto
+128c10dd-7a81-4f20-8d50-cec288e0d332,7d57bf9f-f2c5-4265-8102-4d3655d7273a,Luxury Shopping,Handbags,175,2025-03-18,Debit Card
+cb432665-3063-4be6-b998-02f323f3c421,90f1a32c-5250-44e9-8eb8-c81f614040c7,Asset Purchase,Real Estate,1577,2025-01-13,Credit Card
+9c484959-bb9e-4087-b354-cb0727df8443,a1627a81-35bd-4b89-bc29-08c4ecdd9011,Hotel Stays,Vacation Rentals,738,2025-01-05,PayPal
+dd4fac1d-5299-42ae-9b1a-c622ea098ffc,2474fd65-274d-4b77-a1e4-75c80e4fa0dc,Luxury Shopping,Designer Clothing,2053,2025-03-06,Credit Card
+d830873b-bf50-4716-807a-6289c95b4ef8,239029f7-9433-4f90-9ce5-f98d0c22ad6f,Asset Purchase,Equipment,4207,2025-01-20,Crypto
+68263e67-1f1a-420a-9aa0-32c763f328a9,f7f730a9-de89-47f4-b576-0923cc0bc85b,Luxury Shopping,Designer Clothing,3506,2025-03-07,Debit Card

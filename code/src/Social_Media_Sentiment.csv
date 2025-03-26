@@ -1,0 +1,101 @@
+Customer_Id,Post_Id,Platform,Content,Timestamp,Sentiment_Score,Intent
+721552c1-48f8-4a54-80d4-00f60beef17b,f0f7624e-50a5-4d98-bc07-5e3f3d3967ae,LinkedIn,Along detail research cell maybe.,2025-01-06 15:38:21,0.9490945303977398,Complaint
+7fdbd494-2533-46d0-893b-0393928c6721,e2e10673-8547-4a51-8f28-64c9b1996193,Twitter,Now assume visit day head modern.,2025-01-07 15:00:02,0.5595175495760616,Complaint
+11770b26-bc89-46cc-bd72-a7c6c185d295,c2a0e596-9520-4e7b-93f5-e00ed602713c,Instagram,Move pretty where rule.,2025-02-20 04:42:07,-0.7715241481592063,Praise
+f56f8e4e-0f1c-4031-b9f8-443352dffb27,f0577d02-ffed-4fce-a5ef-fdba63316b43,Reddit,Bill kind past door.,2025-03-02 02:33:34,0.13155323993312096,Complaint
+1f07682b-3094-4859-9128-43f97c9f743c,7fe443b4-382c-4e13-93fe-ba57b4c9c5b0,Twitter,Might cold shoulder rule source must.,2025-02-09 11:54:58,0.9707346244834694,Praise
+6515462b-b62d-4965-aae2-79faa40b5dd6,8b5151dc-084f-45c5-978c-46a609ba0e24,Twitter,Pay another born early every really senior.,2025-03-03 13:36:11,-0.05786909461237122,Interest
+bd299418-8598-46e9-b880-f80acf5a92a3,9fd8327c-08ca-4e97-84b1-7996061fa540,Reddit,Public computer student themselves yeah professor.,2025-01-31 15:57:02,-0.6357857223568335,Praise
+7618c07f-f72c-44cd-999a-49712f7a73a2,09989b9e-8957-4a21-864c-4510c2f11be2,LinkedIn,Yes high film.,2025-03-20 07:31:59,-0.030443265699307664,Interest
+52241a1d-a988-42e2-b06a-71f984804d72,c91306ac-e645-4c95-b869-1d237db77ee6,Facebook,Condition adult strong pay between bit dog road.,2025-01-24 11:36:13,0.024915311763843206,Praise
+23ad48ed-797c-4ca9-9d3f-28224c625e5b,f2912b28-be93-4ed3-af5c-b2967570d68b,Instagram,Course go teacher road.,2025-03-18 10:18:03,0.4833738884573311,Query
+ace4edae-e39b-4b56-ba94-ea3cd44aa9ab,23f15f84-0863-4498-877d-d1e487910ea5,Facebook,Former then tough specific red.,2025-01-25 20:59:12,0.39769170632180884,Query
+2730262f-ee12-45b0-82e5-3c83f0dc6e3a,4a20784a-4654-4567-8281-5f798e72f872,Reddit,Future meeting lead control though while.,2025-03-18 18:47:08,-0.1948999128060389,Complaint
+41e593ea-5901-4adf-9bba-8fd653a09c33,9556e71b-c2f0-4c10-bf54-831249038c18,Twitter,Phone time tax international side.,2025-02-13 18:39:02,-0.563953785011827,Praise
+f9cd3e55-e541-4cba-9d4d-cc734ff73e0d,b639742e-892b-44a0-84b6-278cba976a35,Twitter,Of watch carry practice.,2025-02-17 07:07:30,0.2901083355386589,Praise
+b155bea3-cb6f-4c46-bc6c-b83c73c3ea51,97287ebb-bbdb-480f-a5f6-f84874fd7a92,Instagram,Truth none travel oil race enough down.,2025-01-05 11:09:26,-0.15659213089343638,Interest
+4702936e-8dd2-4b95-81f9-e7a05122b25e,00f73069-1b9a-47ee-b647-015610470a62,Twitter,Station middle his page current pull.,2025-02-11 05:29:05,-0.7354475777493392,Complaint
+52232cfb-c5f8-47f8-89b2-d9c3197eba2f,589616f8-cb92-4c9d-988d-6b990e699521,Twitter,Parent artist later sell production.,2025-02-15 02:18:57,0.8011446024727713,Praise
+3a646685-3155-4887-a974-7bfbdc6c76ea,608e8404-4136-4e1b-9167-8e5855bda867,Instagram,Go happen affect probably main.,2025-02-08 19:37:10,0.38244371521930876,Complaint
+b0ff8a85-1ff0-4bd4-a23c-0e8b9774ccfe,3e8f1493-c6dd-4c83-876f-cf8629c89dc0,Instagram,Provide against doctor than hour only tax them.,2025-03-24 05:25:29,0.3663677128909628,Query
+55ac8e17-9acc-40d1-b221-a88e63966802,0d348de8-5482-4fad-9483-d609fbe44761,Reddit,Herself until popular tree.,2025-03-12 04:42:44,0.6451677518233478,Praise
+a9311185-407b-45fb-8548-b6081f133146,be6d85f1-c276-4ff4-b803-23c65061cb98,Twitter,Explain character most.,2025-02-25 01:53:58,0.05932335731016214,Praise
+65bfebe2-a163-4992-8699-1a47bb562acc,788c6af8-2ef7-4e96-aa4c-a7188ef7e176,Twitter,Hundred similar me alone research imagine.,2025-01-28 13:50:53,0.6301088568049142,Complaint
+4966989c-65c4-427b-aab8-71c48e8c0848,b7c2cd6a-395b-4c81-a23d-157a58c78684,Reddit,Pressure open mean owner continue.,2025-02-05 16:32:22,-0.00381849297798853,Praise
+fa6261d6-0abf-445d-b636-6c21b55f21dc,940e7694-b8c1-4962-b3ef-8bb05f77faf4,LinkedIn,Choice trial cup his cover exist new someone.,2025-02-15 14:52:49,-0.8656492001685798,Complaint
+924c4d6f-dcd8-4a55-913c-880d41571926,ce671f5a-ddb7-4d67-8e1d-0c6fbe22397a,LinkedIn,Central fish institution present traditional happy nation.,2025-01-18 18:58:09,-0.1895038239446225,Praise
+216478ef-b420-47e1-a84b-7c882be2f2a5,5337b079-eb78-4ae2-b171-1b861e8b8e8c,LinkedIn,Pressure make recently agent factor.,2025-03-04 20:00:10,-0.005070212040218847,Interest
+2ea50c47-616d-449a-9113-cf07a4593a1a,b887a265-a111-419e-a740-e17abd7c1579,Reddit,Difficult front them wait own career about.,2025-01-17 09:28:19,0.44040516326459156,Complaint
+38774090-1835-4e8b-8b7d-186a7f58384c,d18e507c-b8af-4c32-964a-1633011846d8,Twitter,Cell ahead magazine same both run pass.,2025-01-05 20:03:06,-0.7868425397426513,Praise
+4f6bcca3-bacf-493e-8ed0-c9703dc2d291,6e339bbb-7680-4ad2-8961-3d137a711d80,Reddit,Necessary best explain.,2025-02-02 21:20:27,-0.719962922679102,Query
+65a51b17-4ed5-4a07-a51c-2acb1482fb87,01dbd5cc-3a0a-43b1-9e75-358a6cbbe778,Reddit,Push crime manage east know answer.,2025-01-19 05:38:21,-0.4726323947307671,Praise
+868a0c79-bebb-4efc-b2e3-19cd27648401,4303c060-fe24-4dfc-a1d9-465ebc1e2cdb,LinkedIn,Need others only religious focus option.,2025-03-04 22:16:41,-0.46700321325823557,Query
+f30426be-68ef-4af3-a135-41f67d7641ed,50791a11-c730-484e-a2f1-11449a56da5b,Facebook,Very open choose significant ago let language.,2025-01-13 06:51:18,0.46436915691812475,Query
+549e572c-a546-4cf2-989d-7fd03858c140,b850ad6a-f304-437c-a70e-b7c9043befc7,Twitter,Red involve worker friend natural personal.,2025-03-08 07:33:49,-0.4985386788768045,Interest
+6b4173ec-d46f-4edc-be04-5347a6cf784b,8a4f0622-1aa3-4fd5-9c10-6cc552d93f4d,LinkedIn,Travel food himself start which business score.,2025-03-11 18:47:12,0.2661961267148951,Complaint
+f652c543-f280-4386-9b17-dea5c464e736,a6ec7180-c00f-4dfe-9d98-4e482a11c442,Facebook,Look whose loss form benefit meet must write.,2025-03-18 21:31:27,-0.011452299723457182,Praise
+8235c8e9-34a7-4840-b9ac-458756903ac5,1e23b265-1482-4b8e-bb76-a8fb69623bc8,Facebook,School class still society year while nature your.,2025-02-17 12:02:01,0.1465887563588013,Interest
+28d17825-dd6f-4cef-b6f9-881ff6420990,4ac84b67-03da-4664-b742-7f5b2ff003c5,Instagram,Would reduce market throughout.,2025-01-24 12:29:01,0.6762139263565916,Praise
+0ba78cc3-8d9f-40d7-96b3-96633a797087,5a48b78b-0748-49ea-a13b-80a147a13332,Twitter,Hit develop write office however practice before price.,2025-01-02 17:44:08,-0.1912369969019514,Query
+af9be146-1abb-4150-9903-adfe55e04715,0a5243e6-adce-4c3c-a9de-4ed4995a5c7e,Facebook,Student product leg occur watch ability material.,2025-02-13 23:55:03,0.541822754128541,Complaint
+1b5191a0-b2db-4688-b00c-7fed454e9f14,8f304766-834a-47b3-9f48-e90cdf009057,LinkedIn,Floor should Republican must near next.,2025-03-23 19:33:32,-0.1559278808986253,Praise
+fac2cf86-5bca-45ab-bded-768827f0b7f7,928a83b3-93ce-4fbf-a93a-7d7ee8af7e8a,Instagram,Better development occur degree improve.,2025-02-12 01:05:02,-0.2922572468775011,Praise
+5203a2f0-a690-4600-bbee-0d178ffa03dd,695ba83f-d83e-4beb-a9fc-99b87ee97f1b,Twitter,Travel treat however every choose.,2025-01-21 06:19:07,0.9172543546264411,Query
+eea0e286-f7da-486b-85b4-f93e51cf3fc7,036010d3-a590-44d6-9ba1-3b7320c03e40,Reddit,Money seek create success.,2025-03-11 07:08:02,-0.6312581586420736,Praise
+374dd882-62cb-4161-980d-72f45c704126,13e6fc15-1dc8-42e3-9bf7-2d377f1ae8bc,LinkedIn,Local page letter last start technology perform.,2025-03-24 11:19:11,-0.8193260788447843,Praise
+56a075ce-7345-418b-9377-1dbc4f17ea9d,897c4423-8243-4d49-a8d4-f39be36dda18,Facebook,Although particular under economic identify professional including.,2025-01-25 23:31:05,0.541971851070957,Query
+bbfa18eb-9c4f-4c68-a66d-afcd58b7cea1,fa5fac97-9ca8-40ab-b8ce-7f7158d6673f,Facebook,Whole red leg media mouth.,2025-02-21 13:38:22,-0.8635005892918168,Interest
+6dbbe72e-544f-4705-85e4-da34671cb4af,07bd05b0-edd6-4f42-9416-6359ac53fdb9,LinkedIn,Great play social throw.,2025-03-02 15:03:41,0.6741579814060588,Query
+d2bc7165-9ec9-4e3c-9885-0c5c7060948b,fe265f6f-960e-4b2b-a4b7-19e848822f5c,Facebook,Matter energy community daughter.,2025-03-19 15:31:00,-0.12561320728551295,Interest
+c5e54eb8-7317-4c06-956c-66aa8da23b6e,5abceedf-abc0-4687-b134-074a3d48a553,Instagram,Top sing trouble moment painting concern upon.,2025-01-28 06:11:24,0.831027354583828,Complaint
+f9498fc2-1cb8-4a64-9245-3cab2a3d77bc,0b0a5d5c-c8e7-43d7-b363-64b61b9308de,Twitter,Story professional out sure message.,2025-01-03 04:05:33,0.44306572224381124,Interest
+7ad1e74c-ba0e-48e8-9afe-d65e59365f1f,110d2cc6-5ad6-45ee-a360-facf08ec7ed2,Instagram,Service laugh idea himself task direction per.,2025-03-12 02:24:04,0.22080933401591518,Interest
+1c67d1b0-e41c-4cf6-9460-0c61dc2b5d0a,a4961af6-e46c-421b-b38b-fb062d0dbe7d,Facebook,Appear training rich suddenly dark.,2025-02-02 17:51:05,0.8986135941155313,Complaint
+69d6c19b-3b56-49b4-8998-bae3014a6a1e,7ecb63b6-e6a0-4ecf-8310-610d85a90fb3,Reddit,More position all.,2025-02-15 20:33:18,-0.20670125389589145,Interest
+f1edf12e-66e9-451d-8193-2a21ed70dbcb,dda98789-e3e8-400e-bf02-bf1500b03684,Twitter,Involve issue senior war page.,2025-02-02 19:22:18,0.9081738730792661,Query
+7ea4f5c1-98cf-46cd-b362-d6e54cf5bf61,bc6d295a-e217-4b9c-9082-e1d95aed49f0,Twitter,Yet mission guy suggest.,2025-01-20 23:58:40,-0.7299974451575861,Interest
+629bfff6-f00d-4549-850f-36354e603b7c,e46a0a62-7e63-42ec-80f6-397204c3b982,LinkedIn,Concern ever collection population.,2025-01-06 21:33:54,-0.032490116135174496,Complaint
+605ca112-2467-4b87-b635-56a6cd445f68,3fc1a1cf-4c63-409f-8388-a36e22e000a9,LinkedIn,What she modern.,2025-03-12 20:56:00,-0.4601775552156102,Query
+7a1a060f-31dc-4ddb-a491-4c60459a4924,53306203-407d-451f-b04a-d2d85afc75cd,Reddit,Rule usually more year a condition.,2025-02-20 15:06:34,0.07968555781638686,Complaint
+a8760967-95dc-400a-8ada-3e77f0f7958a,080be9c4-bfa7-4295-abf0-1e2aedffe480,Twitter,Could wear least believe treat doctor act.,2025-02-25 07:20:40,-0.6759722442168308,Complaint
+72545849-7015-4bdb-9837-19676713f5b3,7fc2719f-3fb4-4df5-93ce-471480e73840,Reddit,Story really become today large make simple.,2025-02-02 21:15:26,0.6830593206200868,Praise
+f155deaf-d99c-48ad-8477-acd6f18e7343,7d04abcc-1f88-456d-b226-90df4d35a43a,LinkedIn,Piece choose whatever soldier half moment.,2025-03-15 12:54:44,0.6928156986291145,Praise
+c26972ea-49ff-4257-90a5-e8c5da4e2334,930a9570-42ae-48bc-b054-25d031f6f651,LinkedIn,Kind stuff important.,2025-01-14 23:15:53,0.910472625446958,Complaint
+55774197-c6d5-4d58-b691-2cb768d829eb,2acee5d3-3573-484f-be92-472f771ee8ba,Twitter,Mother image friend five increase evidence news.,2025-02-13 12:53:39,-0.6906557182335276,Complaint
+f0f6c5e2-b2cc-4d8d-941d-ad9b69521c05,c6370e52-2135-4cdb-a69c-e7721d2a85da,Instagram,Meeting there example.,2025-01-31 16:52:52,0.24666510180998147,Complaint
+fe2e8991-2d49-4ad1-b327-b159564be7fa,985f8f6c-a32b-425e-a59c-c6b2cc2e4717,Facebook,Although use behind adult of together firm.,2025-02-04 23:52:04,-0.05152538259926076,Praise
+736d0f98-9b90-4d09-82aa-41a9d0162b29,588921bf-d9a4-4068-99ef-d3f67783c92d,LinkedIn,Add play challenge age.,2025-01-10 14:47:40,-0.31123253591153355,Praise
+8bfc1711-b0a3-4da1-b727-272d8b44b0b3,6eebb038-5926-4374-8f0e-4bd99bb53799,LinkedIn,Baby civil design particular along.,2025-01-04 20:38:13,-0.29691967773156236,Interest
+ff320482-de43-47de-88fa-4aedabb706cf,3d5b135e-14b7-45de-bc5e-20223cbe5e17,Instagram,Recognize half bad help sister.,2025-03-25 06:07:40,-0.17441289878649546,Interest
+090e9668-888a-424f-9acc-07a76fee8cbb,750dd0cf-1dee-40ee-9958-fb412f6bc2ce,Instagram,Also final national fire site outside.,2025-02-17 16:22:26,0.4098510993779061,Complaint
+75234835-d65d-49e8-b857-bc7ff9909d24,11d0e008-567c-47c8-88b3-01336470ed76,Reddit,Whose war he factor.,2025-01-20 16:53:09,0.19657211653630924,Query
+3b7cc4e1-0b2d-4a1f-8872-28a8ef758cc4,eac2ef3a-1c56-49ad-9f4e-311de445dc20,Reddit,Increase write man instead help.,2025-02-15 09:05:24,-0.08063697447773777,Query
+8e7e532e-6677-4f4b-863a-48b88a50e419,ab7a1915-bcf3-4f8d-9073-13d4e23527b4,Facebook,Surface just officer knowledge rock check.,2025-02-16 13:03:50,-0.8481331792607558,Praise
+9a9b8fcd-c00f-40d2-abe8-9b7c1648925a,2adb8596-bbe7-46bd-8c72-7cc172c6507e,Facebook,Church lead four.,2025-02-26 22:15:53,-0.8444693118420858,Praise
+c13e0102-6137-4e05-90f5-9174f5ddf0b4,21f12c56-754c-493d-930e-c90edf4c26df,Twitter,Blood store must reality alone American example.,2025-01-13 20:33:39,-0.9953212187484435,Praise
+d045b63f-2ad2-4e68-abc1-d8433b459e02,fa2fb60c-2f9b-4550-a2d8-ead306109a08,Reddit,Very perhaps record choose state couple.,2025-01-15 16:56:04,0.9353987764141729,Complaint
+54b1cf1f-d9a4-4e3f-94b8-dfc8f8aab756,8a13b2c4-3cae-474e-ae90-4b2f2d7f9e98,LinkedIn,Fact minute other indicate bed couple.,2025-02-18 00:09:39,-0.9894923628832302,Query
+4c4531c9-36b3-44e2-b41e-ac21c8318c98,2b5482b8-6737-4a89-b844-b35b7fb530d2,Reddit,Right between specific word how present.,2025-02-06 12:49:13,-0.7938125079725102,Interest
+481b3ab5-c50f-4405-8a1d-9b541f6f43d4,67d44fc7-7224-4e37-9465-3bf3220b79d0,LinkedIn,Region next hotel.,2025-02-14 14:43:50,-0.3708068863811782,Complaint
+ff79d5c0-eb87-44a8-ba6f-cbfc6be3d0d4,7b773820-6a1b-42aa-a44a-4e016fc8180d,Instagram,Simply say return travel.,2025-03-10 16:04:55,0.6148605036335224,Interest
+747e93a7-aa30-4348-b551-8527769a2ea5,bbc49340-759d-4294-b9ee-3ccd2acb59ad,Reddit,Lead magazine mean.,2025-03-17 11:37:06,0.9241975715282353,Interest
+2b449ab5-a6ae-42eb-968a-5a5a11e206b2,8d2369b8-00d2-44a6-bbe1-4fbe18aa4a4f,Instagram,Share often style.,2025-01-17 10:01:42,0.5800271175837122,Complaint
+60614db3-19dc-4b9f-a24b-53113c8dd128,f688f9b5-a505-42da-94f6-55ed1b0871dc,Facebook,Those take different both approach animal citizen.,2025-03-18 08:40:51,0.38112046489128115,Interest
+adb3824d-8d1e-499d-91af-85c59a1bce32,031259b3-55d6-4673-be24-9b4a36ecad9f,Facebook,Exist enter operation student.,2025-01-31 21:50:11,0.04260133482713879,Query
+4cf96270-75d2-4b7c-af60-1932d9732d72,26dfe94f-8361-499e-8fad-1e85eb7dca32,Twitter,Authority consider by green cup rest.,2025-02-21 02:33:00,-0.8265895762756328,Interest
+5beed5b4-69fa-4604-8762-08f6e4c07f4f,28630478-7f36-4bb2-b7eb-4e22f287414e,Reddit,Line structure team senior job rise high.,2025-03-21 08:23:00,0.9163415860078608,Query
+84728334-6a69-450c-b457-b8370672d9c6,10212c05-6fab-46ce-8baa-714052d45ce1,Instagram,It us good brother.,2025-03-12 11:58:07,0.5167848278913629,Query
+05b655c3-6a19-4cf0-9d8a-6f0d4c1ded88,ac74743b-20c2-40a6-8f44-18bfecc4eced,LinkedIn,Community yes word face.,2025-01-27 02:26:13,0.27789877066852364,Query
+258e8807-ca68-47c7-9db1-4c778354efa4,df0b8b43-487b-4ee4-a566-866dbb449574,Facebook,Various game understand institution catch sign street some.,2025-01-11 11:45:12,0.5180716910776997,Praise
+56d4a944-401a-40e6-8a98-80bacf761ce9,8d16d69c-e6a4-4a4d-a0a2-f0312998906a,Facebook,Half join indicate source citizen.,2025-01-21 18:40:32,0.44820665854627717,Interest
+76b0a088-3c3e-48dc-82ba-9cb309fad345,0e3ab1b3-3e86-4049-9276-a3398833f483,LinkedIn,If yard compare analysis.,2025-03-15 05:37:06,0.2744631595789737,Complaint
+3d8232f0-e69d-40a3-af99-9580a8e940e3,6172612b-fd9f-42a8-8aee-9a210c522894,Instagram,Agent add wait theory.,2025-03-09 15:34:42,0.9611536003599763,Complaint
+56a50032-709b-40fc-bf33-2bf4c53d5a48,e313fa70-19f1-42df-940c-dc7b394b6ca9,Instagram,Executive him last cold.,2025-02-22 17:42:49,0.8067276252720499,Interest
+baf0c04f-4fe1-4f75-92be-8d1473c09dbf,76b51063-64ce-43c4-ba7b-0efd38cd2e41,Reddit,Couple east heart school three.,2025-01-16 10:56:07,0.2933298382343268,Praise
+8d3c7095-0c08-4819-8e1f-7616c0dd0919,48c31569-0600-4823-b94a-3f861459c224,Reddit,Them wife participant range at home.,2025-02-18 15:57:06,0.38635042291384947,Praise
+128c10dd-7a81-4f20-8d50-cec288e0d332,aaef8f4a-1fee-46e8-9f3c-d17aa039f5e7,Twitter,Responsibility player or concern next which describe.,2025-03-25 20:04:35,-0.89680838668258,Query
+cb432665-3063-4be6-b998-02f323f3c421,3636d5dd-8d25-49f0-8356-2c69a0c9ec5d,Facebook,Himself look wonder determine.,2025-01-25 17:09:52,0.3398349291000784,Interest
+9c484959-bb9e-4087-b354-cb0727df8443,99f4bc41-356a-4515-8c60-6ca014ec8df5,Reddit,Executive middle seven international truth rise.,2025-01-21 02:37:07,-0.9116691245797997,Interest
+dd4fac1d-5299-42ae-9b1a-c622ea098ffc,28f3e023-efd7-4ce8-9586-0b7089d124c4,Instagram,Occur career stuff yeah practice activity call around.,2025-01-23 00:47:44,0.1765275139398621,Complaint
+d830873b-bf50-4716-807a-6289c95b4ef8,44b0b1b8-5086-4839-a7da-fc7c1ec6173b,LinkedIn,Range without poor card contain single opportunity.,2025-02-05 01:41:52,0.9987069991316697,Interest
+68263e67-1f1a-420a-9aa0-32c763f328a9,678508cf-3d63-481f-aaf5-af7e6311fb08,Instagram,Carry accept them pressure bring later.,2025-02-03 00:46:37,0.1116131628743593,Praise

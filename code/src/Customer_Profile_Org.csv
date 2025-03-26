@@ -1,0 +1,101 @@
+Customer_Id,Industry,Financial Needs,Preferences,Revenue(in dollars),No of Employees
+721552c1-48f8-4a54-80d4-00f60beef17b,Technology,Insurance,High Returns,345972,312
+7fdbd494-2533-46d0-893b-0393928c6721,Manufacturing,Investment,Eco-Friendly,461927,148
+11770b26-bc89-46cc-bd72-a7c6c185d295,Retail,Insurance,Low Risk,315564,273
+f56f8e4e-0f1c-4031-b9f8-443352dffb27,Manufacturing,Savings,Low Risk,408896,374
+1f07682b-3094-4859-9128-43f97c9f743c,Manufacturing,Investment,Luxury,181373,128
+6515462b-b62d-4965-aae2-79faa40b5dd6,Healthcare,Retirement Plan,Eco-Friendly,488452,110
+bd299418-8598-46e9-b880-f80acf5a92a3,Retail,Loan,Budget-Friendly,165294,162
+7618c07f-f72c-44cd-999a-49712f7a73a2,Retail,Insurance,Eco-Friendly,497456,151
+52241a1d-a988-42e2-b06a-71f984804d72,Retail,Loan,Luxury,174019,149
+23ad48ed-797c-4ca9-9d3f-28224c625e5b,Manufacturing,Loan,Luxury,115726,124
+ace4edae-e39b-4b56-ba94-ea3cd44aa9ab,Technology,Investment,Eco-Friendly,191564,323
+2730262f-ee12-45b0-82e5-3c83f0dc6e3a,Retail,Loan,Luxury,427812,279
+41e593ea-5901-4adf-9bba-8fd653a09c33,Manufacturing,Retirement Plan,Eco-Friendly,318246,96
+f9cd3e55-e541-4cba-9d4d-cc734ff73e0d,Healthcare,Loan,High Returns,231408,62
+b155bea3-cb6f-4c46-bc6c-b83c73c3ea51,Technology,Investment,Eco-Friendly,168015,443
+4702936e-8dd2-4b95-81f9-e7a05122b25e,Healthcare,Retirement Plan,Eco-Friendly,266386,350
+52232cfb-c5f8-47f8-89b2-d9c3197eba2f,Technology,Savings,Luxury,304079,233
+3a646685-3155-4887-a974-7bfbdc6c76ea,Manufacturing,Loan,Luxury,76641,478
+b0ff8a85-1ff0-4bd4-a23c-0e8b9774ccfe,Finance,Investment,Low Risk,215656,121
+55ac8e17-9acc-40d1-b221-a88e63966802,Technology,Savings,Low Risk,213817,322
+a9311185-407b-45fb-8548-b6081f133146,Healthcare,Savings,High Returns,466309,283
+65bfebe2-a163-4992-8699-1a47bb562acc,Manufacturing,Insurance,Low Risk,415890,131
+4966989c-65c4-427b-aab8-71c48e8c0848,Technology,Retirement Plan,Eco-Friendly,495101,397
+fa6261d6-0abf-445d-b636-6c21b55f21dc,Finance,Loan,Luxury,86631,400
+924c4d6f-dcd8-4a55-913c-880d41571926,Finance,Investment,Low Risk,292289,133
+216478ef-b420-47e1-a84b-7c882be2f2a5,Retail,Insurance,Low Risk,122991,62
+2ea50c47-616d-449a-9113-cf07a4593a1a,Retail,Retirement Plan,High Returns,54014,126
+38774090-1835-4e8b-8b7d-186a7f58384c,Healthcare,Insurance,High Returns,323237,5
+4f6bcca3-bacf-493e-8ed0-c9703dc2d291,Technology,Retirement Plan,Eco-Friendly,68070,243
+65a51b17-4ed5-4a07-a51c-2acb1482fb87,Technology,Retirement Plan,Luxury,347921,294
+868a0c79-bebb-4efc-b2e3-19cd27648401,Retail,Loan,High Returns,106958,100
+f30426be-68ef-4af3-a135-41f67d7641ed,Technology,Retirement Plan,Low Risk,132074,130
+549e572c-a546-4cf2-989d-7fd03858c140,Technology,Insurance,Luxury,60729,122
+6b4173ec-d46f-4edc-be04-5347a6cf784b,Finance,Retirement Plan,Luxury,280785,52
+f652c543-f280-4386-9b17-dea5c464e736,Retail,Loan,Low Risk,226089,93
+8235c8e9-34a7-4840-b9ac-458756903ac5,Manufacturing,Loan,High Returns,247392,492
+28d17825-dd6f-4cef-b6f9-881ff6420990,Retail,Insurance,Low Risk,208823,241
+0ba78cc3-8d9f-40d7-96b3-96633a797087,Manufacturing,Savings,Luxury,155864,377
+af9be146-1abb-4150-9903-adfe55e04715,Finance,Savings,Budget-Friendly,443002,389
+1b5191a0-b2db-4688-b00c-7fed454e9f14,Healthcare,Retirement Plan,Budget-Friendly,259141,276
+fac2cf86-5bca-45ab-bded-768827f0b7f7,Technology,Investment,Eco-Friendly,417654,193
+5203a2f0-a690-4600-bbee-0d178ffa03dd,Finance,Retirement Plan,Low Risk,104748,491
+eea0e286-f7da-486b-85b4-f93e51cf3fc7,Technology,Insurance,Low Risk,55801,196
+374dd882-62cb-4161-980d-72f45c704126,Healthcare,Insurance,Eco-Friendly,200262,451
+56a075ce-7345-418b-9377-1dbc4f17ea9d,Healthcare,Insurance,Eco-Friendly,492905,73
+bbfa18eb-9c4f-4c68-a66d-afcd58b7cea1,Finance,Insurance,Eco-Friendly,285362,282
+6dbbe72e-544f-4705-85e4-da34671cb4af,Healthcare,Insurance,Luxury,494209,353
+d2bc7165-9ec9-4e3c-9885-0c5c7060948b,Manufacturing,Loan,Low Risk,79592,251
+c5e54eb8-7317-4c06-956c-66aa8da23b6e,Healthcare,Savings,Luxury,322791,455
+f9498fc2-1cb8-4a64-9245-3cab2a3d77bc,Technology,Insurance,Eco-Friendly,189788,80
+7ad1e74c-ba0e-48e8-9afe-d65e59365f1f,Technology,Investment,Low Risk,269963,158
+1c67d1b0-e41c-4cf6-9460-0c61dc2b5d0a,Technology,Investment,Luxury,298710,148
+69d6c19b-3b56-49b4-8998-bae3014a6a1e,Technology,Investment,Luxury,270984,439
+f1edf12e-66e9-451d-8193-2a21ed70dbcb,Manufacturing,Investment,Eco-Friendly,422771,489
+7ea4f5c1-98cf-46cd-b362-d6e54cf5bf61,Retail,Loan,Low Risk,382460,90
+629bfff6-f00d-4549-850f-36354e603b7c,Finance,Investment,Eco-Friendly,308067,189
+605ca112-2467-4b87-b635-56a6cd445f68,Technology,Insurance,Low Risk,314512,289
+7a1a060f-31dc-4ddb-a491-4c60459a4924,Healthcare,Retirement Plan,Budget-Friendly,127575,466
+a8760967-95dc-400a-8ada-3e77f0f7958a,Technology,Investment,High Returns,318799,224
+72545849-7015-4bdb-9837-19676713f5b3,Healthcare,Loan,High Returns,287549,73
+f155deaf-d99c-48ad-8477-acd6f18e7343,Healthcare,Loan,High Returns,120031,51
+c26972ea-49ff-4257-90a5-e8c5da4e2334,Technology,Investment,Eco-Friendly,137922,98
+55774197-c6d5-4d58-b691-2cb768d829eb,Manufacturing,Retirement Plan,Budget-Friendly,498982,242
+f0f6c5e2-b2cc-4d8d-941d-ad9b69521c05,Healthcare,Investment,Low Risk,174046,450
+fe2e8991-2d49-4ad1-b327-b159564be7fa,Healthcare,Loan,Luxury,456619,457
+736d0f98-9b90-4d09-82aa-41a9d0162b29,Technology,Savings,Low Risk,82097,208
+8bfc1711-b0a3-4da1-b727-272d8b44b0b3,Healthcare,Insurance,Luxury,192038,404
+ff320482-de43-47de-88fa-4aedabb706cf,Healthcare,Loan,Low Risk,174862,222
+090e9668-888a-424f-9acc-07a76fee8cbb,Technology,Investment,Budget-Friendly,280229,478
+75234835-d65d-49e8-b857-bc7ff9909d24,Technology,Insurance,Luxury,168834,436
+3b7cc4e1-0b2d-4a1f-8872-28a8ef758cc4,Finance,Investment,Eco-Friendly,143848,345
+8e7e532e-6677-4f4b-863a-48b88a50e419,Manufacturing,Investment,Low Risk,102921,43
+9a9b8fcd-c00f-40d2-abe8-9b7c1648925a,Manufacturing,Savings,Low Risk,230798,104
+c13e0102-6137-4e05-90f5-9174f5ddf0b4,Healthcare,Insurance,Luxury,176141,293
+d045b63f-2ad2-4e68-abc1-d8433b459e02,Manufacturing,Insurance,Eco-Friendly,231372,258
+54b1cf1f-d9a4-4e3f-94b8-dfc8f8aab756,Healthcare,Savings,Eco-Friendly,334821,226
+4c4531c9-36b3-44e2-b41e-ac21c8318c98,Finance,Loan,Budget-Friendly,105609,361
+481b3ab5-c50f-4405-8a1d-9b541f6f43d4,Technology,Investment,Eco-Friendly,277897,27
+ff79d5c0-eb87-44a8-ba6f-cbfc6be3d0d4,Technology,Retirement Plan,Eco-Friendly,499877,254
+747e93a7-aa30-4348-b551-8527769a2ea5,Technology,Investment,Eco-Friendly,81024,14
+2b449ab5-a6ae-42eb-968a-5a5a11e206b2,Manufacturing,Investment,High Returns,120313,250
+60614db3-19dc-4b9f-a24b-53113c8dd128,Finance,Loan,Budget-Friendly,439957,329
+adb3824d-8d1e-499d-91af-85c59a1bce32,Manufacturing,Investment,Low Risk,234078,104
+4cf96270-75d2-4b7c-af60-1932d9732d72,Manufacturing,Savings,Luxury,407429,294
+5beed5b4-69fa-4604-8762-08f6e4c07f4f,Finance,Savings,Low Risk,458554,184
+84728334-6a69-450c-b457-b8370672d9c6,Finance,Insurance,Budget-Friendly,163632,227
+05b655c3-6a19-4cf0-9d8a-6f0d4c1ded88,Finance,Retirement Plan,Luxury,462724,398
+258e8807-ca68-47c7-9db1-4c778354efa4,Finance,Investment,Budget-Friendly,301451,254
+56d4a944-401a-40e6-8a98-80bacf761ce9,Technology,Investment,Eco-Friendly,53051,151
+76b0a088-3c3e-48dc-82ba-9cb309fad345,Retail,Loan,Luxury,229819,446
+3d8232f0-e69d-40a3-af99-9580a8e940e3,Retail,Savings,Eco-Friendly,426836,100
+56a50032-709b-40fc-bf33-2bf4c53d5a48,Finance,Retirement Plan,Low Risk,137235,261
+baf0c04f-4fe1-4f75-92be-8d1473c09dbf,Retail,Insurance,Low Risk,497237,329
+8d3c7095-0c08-4819-8e1f-7616c0dd0919,Retail,Savings,Luxury,247484,497
+128c10dd-7a81-4f20-8d50-cec288e0d332,Finance,Insurance,Luxury,239407,8
+cb432665-3063-4be6-b998-02f323f3c421,Retail,Loan,Budget-Friendly,499395,20
+9c484959-bb9e-4087-b354-cb0727df8443,Manufacturing,Loan,Budget-Friendly,475309,284
+dd4fac1d-5299-42ae-9b1a-c622ea098ffc,Healthcare,Investment,Eco-Friendly,261810,340
+d830873b-bf50-4716-807a-6289c95b4ef8,Healthcare,Retirement Plan,Luxury,482950,251
+68263e67-1f1a-420a-9aa0-32c763f328a9,Finance,Insurance,Low Risk,253687,262
